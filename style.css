@@ -1,0 +1,8 @@
+.centering-blk {
+    text-align: center;
+}
+
+.centering-blk .centering-blk-inr {
+    text-align: left;
+    display: inline-block;
+}
